@@ -13,7 +13,7 @@ body {
     cursor: pointer;
     transform-style: preserve-3d;
     transform: perspective(2500px);
-    transition: 3s;
+    transition: 4s;
   }
   
   .birthdayCard:hover {
